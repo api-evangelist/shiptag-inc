@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/shiptag-inc.png
-name: ShipTag INC
+name: ShipTag
 description: ShipTag INC is a company surfaced as a portfolio company of 500-global and added to the API
   Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
 url: https://raw.githubusercontent.com/api-evangelist/shiptag-inc/refs/heads/main/apis.yml
@@ -46,3 +46,4 @@ maintainers:
 common:
 - type: Website
   url: https://shiptag.com
+x-legal-name: ShipTag INC
