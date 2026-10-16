@@ -1,0 +1,14 @@
+{
+  "repo": "shiptag-inc",
+  "feeds": [
+    {
+      "source": "https://blog.shiptag.com/rss/",
+      "feed_url": "https://blog.shiptag.com/rss/",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
+}
